@@ -23,3 +23,6 @@ Buy me a 🍕: https://buymeacoffee.com/jaredscar
 Graduation 🎓: SJC 2021
 
 Developer Discord 🔌: https://badger.store/discord
+
+## GitHub Contribution Statistics
+![GitHub Contribution Statistics](https://github-readme-stats.vercel.app/api?username=JaredScar)
