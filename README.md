@@ -14,7 +14,7 @@ Code ⌨️: https://github.com/jaredscar
 
 Documentation 📚: https://docs.badger.store
 
-Fluent in 💾: Java, Python, Lua, PHP, SQL, HTML/CSS, JavaScript
+Fluent in 💾: Java, Python, Lua, PHP, C#, SQL, HTML/CSS, JavaScript
 
 ## Miscellaneous
 
