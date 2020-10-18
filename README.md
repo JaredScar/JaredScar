@@ -10,7 +10,7 @@
 [![LinkedIn Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Linkedin-icon.png)](https://www.linkedin.com/in/jared-scarito-51b545130)
 [![Contact Me](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/email-icon.png)](mailto:me@jaredscarito.com)
 
-## Code
+## Information
 
 Documentation 📚: https://docs.badger.store
 
