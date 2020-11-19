@@ -1,9 +1,7 @@
 # Jared Scarito
 
 ## Visitor Count
-<p align="center"> 
   <img src="https://profile-counter.glitch.me/Jared/count.svg" />
-</p>
 
 ## Jared's Developer Community [Discord]
 [![Developer Discord](https://discordapp.com/api/guilds/597445834153525298/widget.png?style=banner4)](https://discord.com/invite/WjB5VFz)
