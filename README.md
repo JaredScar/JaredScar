@@ -23,7 +23,7 @@ Fluent in 💾: Java, Python, Lua, PHP, C#, SQL, HTML/CSS, JavaScript
 
 Buy me a 🍕: https://buymeacoffee.com/jaredscar
 
-Graduation 🎓: SJC 2021
+Graduated 🎓: SJC 2021
 
 ## GitHub Contribution Statistics
 ![GitHub Contribution Statistics](https://github-readme-stats.vercel.app/api?username=JaredScar)
