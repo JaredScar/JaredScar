@@ -21,7 +21,7 @@ Fluent in 💾: Java, Python, Lua, PHP, C#, SQL, HTML/CSS, JavaScript
 
 ## Miscellaneous
 
-Buy me a 🍕: https://buymeacoffee.com/jaredscar
+Sponsor me ❤️: https://github.com/sponsors/JaredScar
 
 Graduated 🎓: SJC 2021
 
