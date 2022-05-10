@@ -2,6 +2,12 @@
 
 ## Visitor Count
   <img src="https://profile-counter.glitch.me/JaredScar/count.svg" />
+  
+## Join Guilded
+https://www.guilded.gg?r=myxkan6d
+
+## Badger's Support Guild
+https://www.guilded.gg/i/knDMLPlE
 
 ## Jared's Developer Community [Discord]
 [![Developer Discord](https://discordapp.com/api/guilds/597445834153525298/widget.png?style=banner4)](https://discord.com/invite/WjB5VFz)
