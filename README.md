@@ -30,6 +30,3 @@ Fluent in 💾: Java, Python, Lua, PHP, C#, SQL, HTML/CSS, JavaScript
 Sponsor me ❤️: https://github.com/sponsors/JaredScar
 
 Graduated 🎓: SJC 2021
-
-## GitHub Contribution Statistics
-![GitHub Contribution Statistics](https://github-readme-stats.vercel.app/api?username=JaredScar)
